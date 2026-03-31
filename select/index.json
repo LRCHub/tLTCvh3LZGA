@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ストリーミングハート -コトコ Cover-",
+  "base_artist": "MILGRAM コトコ (CV: 愛美)",
+  "createdAt": "2026-03-31T13:28:54.687257Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストリーミングハート - コトコ Cover",
+      "artist": "MILGRAM コトコ (CV: 愛美)",
+      "has_synced": false,
+      "path": "select/pl_01_ストリーミングハート_-_コトコ_Cover_MILGRAM_コトコ_(CV__愛美).txt"
+    }
+  ]
+}
